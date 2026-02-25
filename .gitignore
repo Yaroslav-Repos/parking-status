@@ -41,3 +41,5 @@ yarn-error.log*
 next-env.d.ts
 /.vs/parking-status.slnx
 /.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+*.sqlite-journal
